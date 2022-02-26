@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true copy of the Lord Andevers two speeches to the Lords in Parliament; the one concerning the Star-Chamber; the other concerning the pacification: both which were formerly corrupted and abused by a false copy printed.</title>
+            <author>Berkshire, Charles Howard, Earl of, ca. 1615-1679.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76429</idno>
+            <idno type="STC">Wing B1978</idno>
+            <idno type="STC">Thomason E196_40</idno>
+            <idno type="STC">Thomason E196_41</idno>
+            <idno type="STC">ESTC R8825</idno>
+            <idno type="EEBO-CITATION">99873413</idno>
+            <idno type="PROQUEST">99873413</idno>
+            <idno type="VID">157466</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76429)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157466)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 35:E196[40], 35:196[41])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true copy of the Lord Andevers two speeches to the Lords in Parliament; the one concerning the Star-Chamber; the other concerning the pacification: both which were formerly corrupted and abused by a false copy printed.</title>
+                  <author>Berkshire, Charles Howard, Earl of, ca. 1615-1679.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Constable,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Composed of two speeches. The second is Thomason E.196[41] and is titled "A true copy of the Lord Andevers speech to the Lords in Parliament, concerning the pacification.".</note>
+                  <note>Annotation on Thomason copy: "March. 6th 1640"; the second 1 in the imprint is crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England. --  Court of Star Chamber --  Early works to 1800.</term>
+               <term>Speeches, addresses, etc., English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157466:1"/>
+            <pb facs="tcp:157466:1" rendition="simple:additions"/>
+            <p> A true Copy of THE LORD ANDEVERS Two Speeches To the LORDS in Parliament;</p>
+            <p>The one concerning The STAR-CHAMBER; The other concerning The PACIFICATION: Both which were formerly corrupted and abuſed by a falſe Copy printed.</p>
+            <p>LONDON, Printed for <hi>Francis Conſtable,</hi> 1641.</p>
+            <pb facs="tcp:157466:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb n="1" facs="tcp:157466:2"/>
+            <head>A true Copy of THE LORD ANDEVERS SPEECH To the LORDS in Parliament, <hi>CONCERNING</hi> The STAR-CHAMBER.</head>
+            <opener>
+               <salute>My Lords,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Ince your Lordſhips have already lookt ſo farre into the Priviledges of Peeres, as to make a ſtrict inquiſi<g ref="char:EOLhyphen"/>tion upon ſorreigne Honours; let us not deſtroy that among our ſelves, which we de<g ref="char:EOLhyphen"/>ſire to preſerve from ſtrangers.</p>
+            <p>And if this greivance, I ſhall move againſt, have ſlept till now, it is very conſiderable, leaſt cuſtome make it every day more permanent than other.</p>
+            <p>Your Lordſhips well know, there was a Statute framed, <hi>tertio H.</hi> 7. authorizing the Chancellor, Treaſurer, Privie Seale, and the two Chiefe Ju<g ref="char:EOLhyphen"/>ſtices, calling to them one Biſhop, and a Tempo<g ref="char:EOLhyphen"/>rall Lord of the Kings Councell, to receive com<g ref="char:EOLhyphen"/>plaints upon Bill, or Information; and cite ſuch
+<pb n="2" facs="tcp:157466:3"/> parties to appeare, as ſtand accuſed of any Miſde<g ref="char:EOLhyphen"/>meanour: And this was the Infancy of the <hi>Starre-Chamber.</hi> But afterward Cardinall <hi>Woolſey, octavo H.</hi> 8. raiſed it to mans eſtate; from whence being altogether unli<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ited, it is growne a Monſter, and will hourely produce worſe effects, unleſſe it be reduced by that hand, layed the fountaine.</p>
+            <p>For the Statute is ratified by Parliament, which admits of no other remedy, than a Repeale. Therefore I humbly offer unto your Lordſhips ſome reaſons, why it ſhould be repealed.</p>
+            <p>Firſt, that the ve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y words of the Statute clearly ſhew, it is a needleſſe Inſtitution; for it ſayes, they who are to judge can proceed with no Delin<g ref="char:EOLhyphen"/>quent otherwiſe, than if hee were convict of the ſame crime by due proceſſe of Law: And doe your Lordſhips hold this a rationall Court, that ſends us to the Law, and cals us back from it again? Next, divers Judicatories confound one another; <hi>&amp; in peſsimâ Republicâ plurimae Leges.</hi>
+            </p>
+            <p>The third reaſon is, from Circumſtance, or ra<g ref="char:EOLhyphen"/>ther <hi>à Conſuetudine:</hi> and of this there are many examples, both domeſtick and forreigne; but more particularly the Parliaments of <hi>France,</hi> abreviated into a ſtanding Committee by <hi>Philip the Long,</hi> and continued according to his intention, till <hi>Lewis</hi> the eleventh came to the Crowne; who being a ſubtle Prince, buried the Volume in the Epitomy: for to this day, when ever the three Eſtates are called, either at the death of the old King, or to crowne the new, it is a common Proverb, <hi>Allons voyre le ieu des eſtats.</hi>
+            </p>
+            <pb n="3" facs="tcp:157466:3"/>
+            <p> My Lords, arbitrary Judgements deſtroy the Common Lawes, and in them the two great Charters of the Kingdome, which being once loſt, we have nothing leſt but the bare Name of <hi>Liberty.</hi>
+            </p>
+            <p>Then the laſt reaſon is, though it were the firſt cauſe of my ſtanding up, the great Ecclipſe this Court hath ever been unto the whole Nobility; for who are ſo frequently vext there, as Peeres and Noblemen? And notwithſtanding that their Ap<g ref="char:EOLhyphen"/>peale is ever good to this Aſſembly, whilſt that famous Law remaines in force, <hi>Quarto Ed.</hi> 3. to hold a Parliament once by yeare, or more, if oc<g ref="char:EOLhyphen"/>caſion bee; yet who durſt a yeare ago mention ſuch a Statute, without incurring the danger of Mr. <hi>Kilverts</hi> proſecution.</p>
+            <p>Therefore I ſhall humbly move your Lord<g ref="char:EOLhyphen"/>ſhips, a ſelect Committee of a few may be named to conſider upon the Act of Parliament it ſelfe: and if they ſhall think it of as great prejudice, that then the Houſe of Commons in the moſt uſuall manner bee acquainted with it, either by Bill, or Conference, who happily may think it a burden to the Subject; and ſo when the whole body of Parliament joynes in one ſupplication, I am confident his Majeſty will deſire nothing ſhould remaine in force, which his people doe not willingly obey.</p>
+         </div>
+         <div type="speech">
+            <pb n="4" facs="tcp:157466:4" rendition="simple:additions"/>
+            <head>A true Copy of THE LORD ANDEVERS SPEECH To the LORDS in Parliament, <hi>CONCERNING</hi> The PACIFICATION.</head>
+            <opener>
+               <salute>My Lords,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Did lately move your Lordſhips, that the breach of the <hi>pacification</hi> might be ſpee<g ref="char:EOLhyphen"/>dily reviewed, as the <hi>unum neceſſarium;</hi> and truly my opinion is yet nothing altered, although upon ſecond thoughts (me thinks) it would firſt bee known who did actually engage us in theſe fruitleſſe diſſenſions, and ſo derive the miſchiefe from ſome originall.</p>
+            <p>For, <hi>my Lords,</hi> the Kingdome cannot now long ſtand at gaze, or undergoe new burthens. There<g ref="char:EOLhyphen"/>fore what is to be done (if you intend it ſhould proſper) muſt preſently receive life from the whole people, otherwiſe we ſhal expire in a dream; and when the ſucceſſe differs from expectation, it is not enough to cry, <hi>quod non putâram.</hi>
+            </p>
+            <pb n="5" facs="tcp:157466:4"/>
+            <p> 
+               <hi>My Lords,</hi> the wiſe-man ſayes, there is a proper ſeaſon for all things under the Sun, and we often finde the experiment in naturall bodies, which are voluntarily weakned, to recover ſtrength; yet with a reſtriction to ſuch bounds, and limits, as the Phyſitian preſcribes himſelfe: And truly, I think it is your Lorſhips caſe at this time, either to con<g ref="char:EOLhyphen"/>ſider what ſhould further be done, than is already, or elſe how to get out of theſe labyrinths we now are in; leſt the words of the <hi>Pſalmiſt</hi> come home to our ſelves, <hi>Vendidiſti populum ſine pretio.</hi>
+            </p>
+            <p>
+               <hi>My Lords,</hi> I am confident the houſe of Com<g ref="char:EOLhyphen"/>mons doth throughly ſee both into the prejudice, and vaſt expence that theſe two Armies lay upon the land; and undoubtedly ſo many Gentlemen of worth, as ſit there, will have tender eyes upon the Common-weale. It will therefore become your Lordſhips to ſecond them in your way, and whilſt they apply to publike wounds, the care of this Houſe may ſearch the inteſtines; for if thoſe bee not clenſed, it will bee but a ſuperficiall Cure, and break out againe.</p>
+            <p>
+               <hi>My Lords,</hi> it ſeemes the Earle of <hi>Strafford,</hi> and the Archbiſhop of <hi>Canterbury,</hi> have gone high wayes of iniquity, and every one knowes how to trace them; but Mines under ground are moſt con<g ref="char:EOLhyphen"/>ſiderable, which (unleſſe they bee likewiſe found out) may at any time ſpring and ſupplant the whole fabrick of all our labours. Let us then throughly examine this fantaſtick warre, leſt as the Duke of <hi>Burgundy</hi> made a few ſheep-skins the cauſe of his quarrell, ſo wee ſhall finde thoſe few
+<pb n="6" facs="tcp:157466:5"/> ſheets of paper, ſent under the name of a <hi>Liturgy,</hi> and book of <hi>Canons,</hi> were but the <hi>Mopſa's</hi> of the ſtory, to divert our eyes from the maine de<g ref="char:EOLhyphen"/>ſigne.</p>
+            <p>So that my humble motion ſhall bee for a ſe<g ref="char:EOLhyphen"/>lected Committee of no great number, who may have power from the Houſe to begin <hi>aborigine ma<g ref="char:EOLhyphen"/>li,</hi> and reviſe every mans negotiations, who was either an Actoror Counſellour, ſince the firſt ap<g ref="char:EOLhyphen"/>pearance of theſe troubles in <hi>Scotland;</hi> and that they may bee examined upon ſuch Articles, as the heavie preſſure of this Kingdome ſhall juſtly adminiſter unto them.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
